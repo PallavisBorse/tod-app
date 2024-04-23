@@ -1,4 +1,4 @@
-# Define a number
+#Deleted the line and wrote new line in this place
 number = 7
 
 # Check if the number is even or odd
